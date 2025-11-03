@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="center" style="color:#00FFFF; font-family:'Poppins',sans-serif; font-size: 22px; background-color:#2E003E; padding: 10px;">
-  💖 A Passionate Front-End Learner from 🇮🇳 INDIA
+  💖 A Passionate UI/UX Learner from 🇮🇳 INDIA
 </h3>
 
 <p align="center">
